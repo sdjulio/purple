@@ -1,0 +1,786 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEwNYZLb524AROZP5wM84GbU",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbyMMjUz424ARENtCl4XFP78",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJhZSQDnoI3IARFxrDCYlE7jk",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJJ74B-ToH3IARTpieCo4RVqc",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 32.9672405,
+               "lng" : -117.1194276
+            },
+            "southwest" : {
+               "lat" : 32.8741084,
+               "lng" : -117.2413405
+            }
+         },
+         "copyrights" : "Map data ©2017 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 mi",
+                  "value" : 1331
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 223
+               },
+               "end_address" : "9225 Adolphia St, San Diego, CA 92129, USA",
+               "end_location" : {
+                  "lat" : 32.9460176,
+                  "lng" : -117.1282797
+               },
+               "start_address" : "12840 Orangeburg Ave, San Diego, CA 92129, USA",
+               "start_location" : {
+                  "lat" : 32.9520009,
+                  "lng" : -117.1194276
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "328 ft",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : 32.952893,
+                        "lng" : -117.1195958
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eOrangeburg Ave\u003c/b\u003e toward \u003cb\u003eSaskatchewan Ave\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_}bhEl{yiUS@}C^"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9520009,
+                        "lng" : -117.1194276
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "289 ft",
+                        "value" : 88
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 32.9527746,
+                        "lng" : -117.1205291
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLimar Way\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qbchEn|yiULfBB`@Dn@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.952893,
+                        "lng" : -117.1195958
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 1029
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : 32.9469932,
+                        "lng" : -117.1283011
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAdolphia St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yachEhbziULlBDb@HTFNLTJLLNPJfBv@XH`BRZFJDLJNHHLfAnAhAdAJPHPJVT`AV~@HPJTh@`ALZFPDZLjADPBLFLDJHNX\\d@d@x@~@LNJPDLFJBJBNBJBPBPBRBPDJBLDJFJLTJLHFNJTN\\PLFLHTRPN"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9527746,
+                        "lng" : -117.1205291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "374 ft",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 32.9460176,
+                        "lng" : -117.1282797
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eMoran Way\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u}ahEzr{iUPIBCDCDCDEDABA@?DAD?F?H?RDzAV"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9469932,
+                        "lng" : -117.1283011
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "7.0 mi",
+                  "value" : 11305
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 746
+               },
+               "end_address" : "13340 Hayford Way, San Diego, CA 92130, USA",
+               "end_location" : {
+                  "lat" : 32.9600736,
+                  "lng" : -117.2097436
+               },
+               "start_address" : "9225 Adolphia St, San Diego, CA 92129, USA",
+               "start_location" : {
+                  "lat" : 32.9460176,
+                  "lng" : -117.1282797
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "374 ft",
+                        "value" : 114
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 32.9469932,
+                        "lng" : -117.1283011
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eMoran Way\u003c/b\u003e toward \u003cb\u003eAdolphia St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "swahEvr{iU{AWSEI?G?E?E@A?C@E@EDEBEBCBQH"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9460176,
+                        "lng" : -117.1282797
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "446 ft",
+                        "value" : 136
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 35
+                     },
+                     "end_location" : {
+                        "lat" : 32.9468663,
+                        "lng" : -117.1297107
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAdolphia St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "u}ahEzr{iUHTDLFPBL@N@N@NARGpC"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9469932,
+                        "lng" : -117.1283011
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 mi",
+                        "value" : 876
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 32.9545879,
+                        "lng" : -117.1298527
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBlack Mountain Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}|ahEt{{iUO^kDM}AIwAGw@@Y@s@Fs@Nu@Rm@Li@Li@Le@H_@D[BY?[?[AC?a@Ck@GkBQo@K{@CU@{@Eq@CW?C?G?GAI?g@E]EeAK"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9468663,
+                        "lng" : -117.1297107
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.2 mi",
+                        "value" : 6698
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 243
+                     },
+                     "end_location" : {
+                        "lat" : 32.9541054,
+                        "lng" : -117.1894411
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to merge onto \u003cb\u003eCA-56 W\u003c/b\u003e/\u003cb\u003eState Hwy 56 W\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "emchEp|{iUAh@F^Jp@^|B`@`CZnBPhAP`BLzAB\\HvAF|@@V@VBJJ`@F|D@p@B~C@tB@xBIdLE|AGzEIxAA@Ev@Gt@QhB]tCs@~DK`@_@jBWr@_@rAWr@eArCq@|Ai@hA}@`By@rAa@l@MREJIJg@p@c@f@oB~BwBdC}AtB_AxAi@t@MTSZIPINKRa@x@g@bAe@fAUh@Yn@{@|BsBrFaAfC_@z@{FlOAB?@A@}CnIyA|DADCFA@GPaHzQiAxCo@jBc@|Aa@`BUpAQ|@[vBMbAObBG~@GlAAv@EhA?l@?@?HAh@@h@?p@@^?VBx@Br@FpAH`AFv@Ht@XpBLv@Nt@RbADTJ`@Pn@J`@Pn@L\\FP?@N`@Rl@Tj@Zv@Vh@LXLVVf@PXFLLTV^PXR\\V\\RZRVNRPRVZd@h@VXd@d@NNPNRPPNNN`@Zd@\\VPRNTNNJPJVNJFJFRJPHNHTJbAf@pAn@lEvB|DlBrCtAjAr@~AdAtB`BlBhB~AhBfAtA`@j@f@t@fAlBfAnB`AvB?@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9545879,
+                        "lng" : -117.1298527
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 499
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 32.9531535,
+                        "lng" : -117.1946188
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e3\u003c/b\u003e for \u003cb\u003eCarmel Valley Rd\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "ejchE~pgjUBZ?@?B@@?B@D@BBJDLHZj@~B\\|AV`BJ|@HhAJ~ABZXtG@XAn@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9541054,
+                        "lng" : -117.1894411
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 mi",
+                        "value" : 896
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 32.9606392,
+                        "lng" : -117.1919535
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eCarmel Valley Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "edchEjqhjU}@PKECAC?E@cCR_ABm@?u@Ce@Ei@Ee@Gi@IG?IC]GaCm@w@Sy@[c@Q{@a@aBcAUQ}@q@u@i@uCoB_@Qg@SkBq@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9531535,
+                        "lng" : -117.1946188
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1838
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 151
+                     },
+                     "end_location" : {
+                        "lat" : 32.959095,
+                        "lng" : -117.2094618
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDel Mar Heights Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_sdhEt`hjU[OK`@cAvC_@hAOn@Mv@Mr@Gh@En@Cf@At@@tADr@@^RvBF`@TrBTrBHbADz@FxA?bBEbBGrACXe@~CGXg@xCc@dCOx@Il@Kz@C`@Cb@C`A?NAF?f@@ZBvAPjBTbBNp@Ld@Pl@\\v@LZLZr@jA~@rA@@v@v@PLZVVNt@b@FDjCnB"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9606392,
+                        "lng" : -117.1919535
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "453 ft",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 32.9597293,
+                        "lng" : -117.2107295
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLansdale Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kidhEbnkjUcAfCYt@MXGNIT"
+                     },
+                     "start_location" : {
+                        "lat" : 32.959095,
+                        "lng" : -117.2094618
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 32.9600736,
+                        "lng" : -117.2097436
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eHayford Way\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "imdhE`vkjUk@]GIEKCGCOCS@eB"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9597293,
+                        "lng" : -117.2107295
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "9.2 mi",
+                  "value" : 14810
+               },
+               "duration" : {
+                  "text" : "14 mins",
+                  "value" : 868
+               },
+               "end_address" : "4810 Eastgate Mall, San Diego, CA 92121, USA",
+               "end_location" : {
+                  "lat" : 32.8817334,
+                  "lng" : -117.2057457
+               },
+               "start_address" : "13340 Hayford Way, San Diego, CA 92130, USA",
+               "start_location" : {
+                  "lat" : 32.9600736,
+                  "lng" : -117.2097436
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "361 ft",
+                        "value" : 110
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 32.9597293,
+                        "lng" : -117.2107295
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eHayford Way\u003c/b\u003e toward \u003cb\u003eWendover Terrace\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "modhEzokjUAdBBRBNBFDJFHj@\\"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9600736,
+                        "lng" : -117.2097436
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "453 ft",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : 32.959095,
+                        "lng" : -117.2094618
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eLansdale Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "imdhE`vkjUHUFOLYXu@bAgC"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9597293,
+                        "lng" : -117.2107295
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 559
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : 32.9557673,
+                        "lng" : -117.2136563
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eDel Mar Heights Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kidhEbnkjUvFrDjAv@`Az@h@l@\\`@h@x@HJf@fAt@nBJb@FTJl@BTTrA"
+                     },
+                     "start_location" : {
+                        "lat" : 32.959095,
+                        "lng" : -117.2094618
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 mi",
+                        "value" : 1319
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 32.9453214,
+                        "lng" : -117.2170901
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCarmel Canyon Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qtchEjhljUBX^AvA?`A?xBEj@ANCPCFAVGn@M`AYXM|Am@d@QNGXIXGJCd@Ib@CXATAP?V@ZBTBF@TDJBLDHBHDLD@?lAb@JBZLDBPFpBn@fA^p@TXJd@RZPHFJFTPf@`@VRPRRTFFZ`@PVBBDHj@~@NTFJFJT^V`@V`@HLBDBDVXZ\\h@d@XRl@^"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9557673,
+                        "lng" : -117.2136563
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 205
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 32.9444711,
+                        "lng" : -117.2152874
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCarmel Country Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gsahEx}ljURJFU|AmFLe@L_@Ri@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9453214,
+                        "lng" : -117.2170901
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 mi",
+                        "value" : 3544
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 147
+                     },
+                     "end_location" : {
+                        "lat" : 32.9280463,
+                        "lng" : -117.2407788
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to merge onto \u003cb\u003eCA-56 W\u003c/b\u003e/\u003cb\u003eState Hwy 56 W\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}mahEprljULYWUWYGGKMSWGIEICGCGAGAK?M?IBK@GDMDGDGHGJGJCB?HAL@H@JDXVDFNNVV@BRTv@x@RTDFBB@@@?@?B?B?@?BAlBlCjAhBLRJRHPLXFLHRHRN`@HVJXLb@VbAh@~BtBhJj@|AXv@L\\f@hAfAzBn@pAvAtCNZb@bAN`@`@nARt@Pt@@FP|@Jj@nA`IHl@Px@Nx@Rz@XlAT`AJ\\@@J^@BJ^fA|D`AjDx@|CZfAbBbGpAvEnAnEx@`CZ`A@DBHFRNh@N^L^Th@`@z@?@`@~@`C|Eb@~@b@v@Z^PTNNPRBBTRn@f@ZRLFLFJFRHRFJDJBf@L^FPBZDh@Bb@@H?f@?ZC`@Eh@Ir@O\\Mt@Q^KxA_@@?FAD?D@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9444711,
+                        "lng" : -117.2152874
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 mi",
+                        "value" : 2310
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : 32.9104837,
+                        "lng" : -117.2284005
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eI-5 Local Bypass S\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "ig~gEzqqjUrL{C|JcCzC_Af@OTK`A]hAa@tAu@v@a@rEgCxCyBjC_CtAsAlB{B`@i@?APQBEBCx@{@`CiDtE{GbAsA`@c@PQPSRSNMJIHGlAaA^YhDwB|Ay@rBeAxIuE"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9280463,
+                        "lng" : -117.2407788
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 mi",
+                        "value" : 1724
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 32.8979209,
+                        "lng" : -117.2179422
+                     },
+                     "html_instructions" : "Take the \u003cb\u003eInterstate 805 S\u003c/b\u003e exit",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "oyzgEndojUB?D?LCJETMn@Yt@Yj@Wn@[~CcBl@]TMd@Q\\QfEsBn@YvBcA|Aw@n@[l@[DCXQDCXS`@STQJGBC@ATSVSVUp@m@pAyABERUHKBCVYf@i@hCyC\\a@DGlD_EvBgCDGrBaCrBuBxAyAzAuA|@{@Ne@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.9104837,
+                        "lng" : -117.2284005
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.7 mi",
+                        "value" : 2693
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 32.8797815,
+                        "lng" : -117.2011019
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eI-805 S\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "_kxgEbcmjU|AuAvDeDrAsA|@cA~@gAj@u@t@aAZe@f@s@^m@Xe@R[\\q@R_@P]LWJSHQl@{Ap@_Bh@{Ap@sB`B{Fp@sBxAuEPg@Ri@jAyBjAwBZa@fB{BdBkBbAcAHIl@k@|@q@XUbAo@vCiBXOXMNEhEkA\\IfRqD|E_A|Bc@h@M\\KlDu@"
+                     },
+                     "start_location" : {
+                        "lat" : 32.8979209,
+                        "lng" : -117.2179422
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 mi",
+                        "value" : 541
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 32.875007,
+                        "lng" : -117.2010111
+                     },
+                     "html_instructions" : "Take exit \u003cb\u003e25\u003c/b\u003e for \u003cb\u003eMiramar Rd\u003c/b\u003e/\u003cb\u003eLa Jolla Village Dr\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "sytgEzyijUXDH?F?PCxAQtC_@tAOPAt@IZEXAPANAR?`@BR@LB`@HLBZH^NJDNFFBPFTBF@P@T?VAXCPCPC"
+                     },
+                     "start_location" : {
+                        "lat" : 32.8797815,
+                        "lng" : -117.2011019
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 601
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 32.8741084,
+                        "lng" : -117.2073531
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eLa Jolla Village Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "y{sgEhyijUN`Bd@vG|@`MB^?B@B@P?@@HB\\XhDVhD"
+                     },
+                     "start_location" : {
+                        "lat" : 32.875007,
+                        "lng" : -117.2010111
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 569
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : 32.8791952,
+                        "lng" : -117.2076992
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eTowne Centre Dr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "evsgE|`kjUuALo@D]BK?c@DW?k@?O?_@?C?g@?{@AK?K?m@CY?I?I?gAAiAAS?a@?_@?g@@WBO@IBs@HeAPYH"
+                     },
+                     "start_location" : {
+                        "lat" : 32.8741084,
+                        "lng" : -117.2073531
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 197
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : 32.879717,
+                        "lng" : -117.2056885
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eEastgate Mall\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_vtgEbckjUc@oCUuAm@kD"
+                     },
+                     "start_location" : {
+                        "lat" : 32.8791952,
+                        "lng" : -117.2076992
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 mi",
+                        "value" : 233
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : 32.8815534,
+                        "lng" : -117.2064353
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eJudicial Dr\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "gytgEpvjjUEYOFWHKNo@LgAVWHE@EBIFWXEDCBEBEBE@WH[He@L"
+                     },
+                     "start_location" : {
+                        "lat" : 32.879717,
+                        "lng" : -117.2056885
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "220 ft",
+                        "value" : 67
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 32.8817334,
+                        "lng" : -117.2057457
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "udugEf{jjUc@iC"
+                     },
+                     "start_location" : {
+                        "lat" : 32.8815534,
+                        "lng" : -117.2064353
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "_}bhEl{yiUqD`@PhCR|CNx@Td@X\\xBbAXH`BRf@L\\TpA|AtAvATh@l@`ClAdCLl@R|AZv@fCrC\\v@N~@P~@LVXb@lAt@bAt@`@UPI\\AnB\\oB]]@s@^ZbABbAGpCO^iGWoCEmAHaE~@oAV{@HuAAiFi@qAAmBIc@?wAMeAKAh@RpAnBxL^|DLtBNxBJ`@F|DDpEBnFObOGzEIxAA@MlBo@~F_A`Fw@~Cw@fCwBpFgBjD{A`CeA|AsCfDuEzFkC`EaAnB}BdFqGtP}Np`@uJhWsAhEw@rDm@tD]fDWnG@vFFlBPrCPlBf@hDt@pD|@~Cj@bBvAfD~@fBjAlBnAdBfBrBzAvAhBxArChBlRhJ~EhCtEfDlBhB~AhBhB`CnBbDhCfFBb@dAdEt@~DTfCj@jLAn@}@POGI@cEVcBCoAKaBU_Du@qBo@_Bs@wBuAsB{AuCoB_@QsCeA[OK`@cB`F]fBU|AIvA?jCFrAfA`KN~BF|DMvDi@xDcBrJ]nDE`CDrBf@nE\\vAn@dBZv@rB~CfB~AlAr@rCtBsBfFITk@]MUGWAyB@xBFVLTj@\\HUTi@|A}DbIjFjBhBfAzAp@rA`ArCRbAXhBBX^AxC?dDG`AQpBg@vB{@hBk@p@M|@EzAB~@Nn@ThIpCjA`@`Ad@rAbAdAdAv@fAzC~Ez@bAbAx@`Aj@`CiI`@cAo@o@o@w@Oa@@o@Re@d@SV?TFfAfA`BhBLLH?DAxDvFp@rAj@vAz@xC~ChNdAtCt@fBvBlEfBpDr@dBt@dCR|@vBxMnA|FfEnOjG`UhCpI\\fAj@fBdAfCbD|GfAvBnAxAdBrAz@`@rA^p@JdAHl@@bACjAOpA]pD}@LAxLyC|JcCzC_A|@[jC_AlCwArEgCxCyB`FsEnCgDrAwAvIeMdBwBfAgAbCmBhDwB|Ay@lM{GH?XIfDyArGkDzHqDrHsDfC_BVUn@i@bCgCd@k@fF_GpHwIfFwFtDoD|@{@Ne@tG{FpCwCjB}BxCiE~AsCt@{A~A{DzAoErCoJjB}F~AcDfByCfB{BdBkBlAmAjB}A|AeApDyBh@SfFuAdYqFrJsBb@DXCvIcA|BSxABxAZbA`@f@JXBl@Aj@GPCN`BbBxUFx@^rEVhDuALmAHsBD}EEuGCoAF}@L_BZmBkLg@PKNo@L_B`@KDk@j@i@RaAVc@iC"
+         },
+         "summary" : "Adolphia St",
+         "warnings" : [],
+         "waypoint_order" : [ 0, 1 ]
+      }
+   ],
+   "status" : "OK"
+}
